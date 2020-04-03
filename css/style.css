@@ -7,7 +7,7 @@
 }
 
 body{
-	background: #fff;
+	background: light-green;
 	font-size: 14px;
 	line-height: 22px;
 	color: light-blue;
@@ -70,19 +70,8 @@ body{
 	margin-bottom: 10px;
 }
 
-/*.resume .resume_left ul li .icon{
-	width: 35px;
-	height: 35px;
-	background: #fff;
-	color: #0bb5f4;
-	border-radius: 50%;
-	margin-right: 15px;
-	font-size: 16px;
-	position: relative;
-}*/
-
 .resume .resume_left ul li .data{
-	color: red;
+	color: black;
 }
 
 .resume .resume-right{
