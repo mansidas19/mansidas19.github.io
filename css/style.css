@@ -11,7 +11,7 @@ body{
 	font-size: 14px;
 	line-height: 22px;
 	background-repeat: no-repeat;
-  	background-position: cover;
+  	background-size: cover;
   	background-attachment: fixed;
 }
 
