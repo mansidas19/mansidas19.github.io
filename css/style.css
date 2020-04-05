@@ -65,6 +65,13 @@ body{
 	align-items: center;
 	margin-bottom: 10px;
 }
+.resume .resume_right .semi_bold{
+	color: #fff;
+}
+
+.resume .resume_right .regular{
+	color:#0bb5f4;
+}
 
 .resume .resume_left ul li .data{
 	color: black;
