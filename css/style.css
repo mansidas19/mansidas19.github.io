@@ -30,7 +30,7 @@ body{
 
 .resume .resume_left{
 	width: 320px;
-	background-image: url('images/bg.jpg');
+	background: #42ADD5;
 }
 
 .resume .resume_left .resume_profile{
