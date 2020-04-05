@@ -43,9 +43,6 @@ body{
 	height: 100%;
 }
 
-.resume .resume_left .resume_content{
-	padding: 0 25px;
-}
 
 .resume .title{
 	margin-bottom: 100px;
@@ -55,10 +52,7 @@ body{
 	color: #fff;
 }
 
-.resume .resume_item{
-	padding: 25px 0;
-	border-bottom: 2px solid #b1eaff;
-}
+
 
 .resume .resume_left ul li{
 	display: flex;
