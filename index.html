@@ -12,8 +12,12 @@
 		font-size: 14px;
 		line-height: 22px;
 		background-size: cover;
-		background-repeat: no-repeat;
-		background-attachment: fixed;
+		animation-name: example;
+		animation duration: 7s infinite;
+		}
+		@keyframes example{
+			from{background-image: url("images/bg.jpg");}
+			to{background-image: url("images/bg2.jpg");}
 		}
 	</style>
 </head>
