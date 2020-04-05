@@ -17,7 +17,6 @@ body{
 	font-weight: 700;
 	font-size: 20px;
 	text-transform: uppercase;
-	font-color: light-blue;
 }
 
 .resume{
@@ -29,7 +28,7 @@ body{
 
 .resume .resume_left{
 	width: 320px;
-	background: #0bb5f4
+	background: #0bb5f4;
 }
 
 .resume .resume_left .resume_profile{
@@ -69,6 +68,4 @@ body{
 	color: black;
 }
 
-.resume .resume-right{
-	background-color: #fff;
-}
+
