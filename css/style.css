@@ -28,7 +28,7 @@ body{
 
 .resume .resume_left{
 	width: 320px;
-	background: #0bb5f4;
+	background-image: url('images/bg.jpg');
 }
 
 .resume .resume_left .resume_profile{
