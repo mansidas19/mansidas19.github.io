@@ -10,7 +10,9 @@ body{
 	background-image: url("images/bg.jpg");
 	font-size: 14px;
 	line-height: 22px;
-	color: light-blue;
+	background-repeat: no-repeat;
+  	background-position: relative;
+  	background-attachment: fixed;
 }
 
 .bold{
