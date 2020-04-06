@@ -83,10 +83,10 @@ li {
 
 li a {
   display: block;
-  color: #fff;
+  color: #ffff00;
   text-align: center;
   padding: 14px 16px;
-  text-decoration: none;
+  text-decoration: underline overline dotted #fff;
 }
 
 li a:hover {
