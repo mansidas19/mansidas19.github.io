@@ -30,7 +30,7 @@ body{
 
 .resume .resume_left{
 	width: 320px;
-	background: #42ADD5;
+	background: linear-gradient(to right, #00ccff, #b3f0ff);
 }
 
 .resume .resume_left .resume_profile{
